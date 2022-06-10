@@ -9,3 +9,13 @@ https://learn.adafruit.com/adafruit-feather-m0-radio-with-rfm69-packet-radio/cir
 These are the files I'm currently using for my device. I am intending on using it to power a couple of NeoPixels for my large project!
 
 This code is currently operational for receiving a packet from my Flipper device to the RFM69HCW device.
+
+
+Product used:
+https://www.adafruit.com/product/3177
+
+CircuitPython instructions and repositories:
+https://learn.adafruit.com/adafruit-feather-m0-radio-with-lora-radio-module/circuitpython-for-rfm9x-lora
+
+RFM69HCW RF Receiver datasheet:
+https://cdn-shop.adafruit.com/product-files/3076/RFM69HCW-V1.1.pdf
