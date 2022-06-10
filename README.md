@@ -19,3 +19,8 @@ https://learn.adafruit.com/adafruit-feather-m0-radio-with-lora-radio-module/circ
 
 RFM69HCW RF Receiver datasheet:
 https://cdn-shop.adafruit.com/product-files/3076/RFM69HCW-V1.1.pdf
+
+------------------------------------------------------------
+
+Online program used to create the .sub file:
+https://flippermaker.github.io/
