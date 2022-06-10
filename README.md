@@ -24,3 +24,7 @@ https://cdn-shop.adafruit.com/product-files/3076/RFM69HCW-V1.1.pdf
 
 Online program used to create the .sub file:
 https://flippermaker.github.io/
+
+
+Please feel free to ask questions or stop by at my Discord. I'm really new to this but I love a challenge! 😊
+Goat Mom#1825
