@@ -1,0 +1,37 @@
+https://flippermaker.github.io/
+
+
+AAAAAAAABBCC0BFFFFAAAAA3A5B3B8C5D3FFAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+
+preamble is AAA
+sync word is "BBCC"
+"0B" is the number of bytes for the packet
+"AAAA" is the pause required
+Rest is the packet data
+"AAAA" at the end is ending preamble
+
+Frequency:
+433.92
+
+650AM
+
+Lengths of everything:
+120
+
+Plaintext codes:
+uU5H2(.@vcXRxp
+M]85~n`=jqSU{P
+Sqe*p9<Yz?kms{
+jN:nJ`6RLk@$9r
+aDFSv:#]T?nJ8}
+
+Hex codes:
+7555354832282E40766358527870
+4D5D38357E6E603D6A7153557B50
+5371652A70393C597A3F6B6D737B
+6A4E3A6E4A6036524C6B40243972
+61444653763A235D543F6E4A387D
+
+Hex value of the length:
+12
